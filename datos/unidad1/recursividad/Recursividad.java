@@ -11,9 +11,23 @@ public class Recursividad {
 	}
 	
 	}
+
+	/**
+	*Funcion que realiza cuenta regresiva de acuerdo a un 
+	*/
+
+	public static void cuentaRegresiva(int n){
+		if(n < 1){
+			return;
+		}else{
+			System.out.println(n + " ");
+			cuentaRegresiva(n-1);
+		}
+	}
 	
 	public static void main(String[] args){
-		saludo(100, "Alejandro");
+		//saludo(100, "Alejandro");
+		cuentaRegresiva(100);
 	}
 
 }

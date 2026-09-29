@@ -138,4 +138,4 @@ Múltiplo encontrado en: 0,2,0
 Múltiplo encontrado en: 1,0,1
 Múltiplo encontrado en: 1,1,0
 Múltiplo encontrado en: 1,2,2
-Total de múltiplos de 3: 6                                                                                                                                         esto es una actividad, has que cada parrafo o palabra tenga un "//" al inicio para que cuando lo meta a code se ejecuten bien los codigos 
+Total de múltiplos de 3: 6
